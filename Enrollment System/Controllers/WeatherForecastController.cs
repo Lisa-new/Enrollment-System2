@@ -1,6 +1,7 @@
+using Enrollment_System;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Enrollment_System.Controllers
+namespace TodoAPI.Controllers
 {
     [ApiController]
     [Route("[controller]")]
